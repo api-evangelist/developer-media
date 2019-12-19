@@ -1,0 +1,62 @@
+{
+    "name": "Developer Media",
+    "description": "Reach Millions of Developers. Developer Media connects your company with today\u2019s most influential developers in everything from cloud to IoT.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2317-developer-media.jpg",
+    "tags": [
+        "agencies",
+        "api lifeycle",
+        "api service provider",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/developer-media\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Developer Media",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2317-developer-media.jpg",
+            "humanURL": "http:\/\/developermedia.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/developer-media-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/developermedia.com\/category\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/developermedia.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/developer-media"
+        },
+        {
+            "type": "Email",
+            "url": "advertise@developermedia.com"
+        },
+        {
+            "type": "Email",
+            "url": "Webmaster@developermedia.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Developer_Media"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/developermedia.com\/"
+        }
+    ]
+}
